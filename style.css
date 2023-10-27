@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #f5f6f7;
+  background-color: #d6a692;
 }
 
 .navbar-collapse {
@@ -21,23 +21,24 @@ section {
 
 h1 {
   font-size: 2.5rem;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Satisfy', cursive;
+  color: #4d6160;
 }
 
 .seccion-oscura {
-  color: white;
-  background-color: #1b1b32;
+  color: #efd9b4;
+  background-color: #a39081;
 }
 
 .seccion-clara {
-  color: black;
-  background-color: white;
+  color: #4d6160;
+  background-color: #efd9b4;
 }
 
 .seccion-titulo {
   font-size: 2rem;
   padding: 15px 0;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .seccion-descripcion {
@@ -55,7 +56,7 @@ h1 {
 }
 
 .texto-negro {
-  color: black;
+  color: #efd9b4;
 }
 
 .texto-blanco {
@@ -65,7 +66,7 @@ h1 {
 /* Seccion Hero */
 
 .hero {
-  background-color: #f5f6f7;
+  background-color: #efd9b4;
   min-height: 450px;
   text-align: center;
 }
@@ -115,7 +116,7 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #1b1b32;
+  background-color: #a2a9af;
 }
 
 .experiencia i {
@@ -195,7 +196,7 @@ h1 {
 }
 
 .overlay i {
-  color: black;
+  color: #efd9b4;
   font-size: 60px;
   margin: 10px;
 }
