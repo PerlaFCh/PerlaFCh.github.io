@@ -196,7 +196,7 @@ h1 {
 }
 
 .overlay i {
-  color: #efd9b4;
+  color: #292522;
   font-size: 60px;
   margin: 10px;
 }
@@ -235,7 +235,8 @@ h1 {
   max-width: 70%;
   font-size: 20px;
   text-align: center;
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'Satisfy', cursive;
+
 }
 
 .testimonio-info {
@@ -266,7 +267,8 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  background-color: #a2a9af;
+  background:13, 110, 253 ;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
